@@ -12,7 +12,7 @@ Each project is intended to showcase the engineering process, from initial conce
 
 ## Engineering Project Portfolio
 
-### 1. PHOENIX — Firefighting Robot
+### 1. [PHOENIX — Firefighting Robot](projects/phoenix-firefighting-robot/README.md)
 **Category:** Robotics | Embedded Systems | Automation
 
 An engineering project focused on the development of a robotic firefighting platform.
