@@ -11,3 +11,8 @@
 ---
 
 Welcome to ASCEND Engineering, a professional engineering portfolio showcasing robotics, mechatronics, automation, and engineering design projects. 
+
+
+## Explore ASCEND Engineering
+
+[About the Engineer](ABOUT.md) | Engineering Projects (Coming Soon)
