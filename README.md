@@ -15,4 +15,4 @@ Welcome to ASCEND Engineering, a professional engineering portfolio showcasing r
 
 ## Explore ASCEND Engineering
 
-[About the Engineer](ABOUT.md) | Engineering Projects (Coming Soon)
+[About the Engineer](ABOUT.md) | [Engineering Projects](PROJECTS.md)
